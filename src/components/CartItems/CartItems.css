@@ -1,0 +1,14 @@
+.cart-img {
+    width: 80px;
+    height: 80px;
+}
+
+.single-item {
+    background-color: rgba(255, 255, 255, 0.425);
+    border-radius: 15px;
+}
+
+.single-item-img {
+    display: flex;
+    align-items: center;
+}

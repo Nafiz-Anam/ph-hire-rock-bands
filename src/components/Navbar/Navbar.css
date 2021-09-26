@@ -1,0 +1,13 @@
+.navbar-brand img {
+    width: 100px;
+    display: inline;
+}
+
+ul {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+ul li a {
+    color: #01356b !important;
+}
