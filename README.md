@@ -1,6 +1,6 @@
 # Hire Rock Bands
 
-Live website link here : [Live link](https://github.com/facebook/create-react-app)
+Live website link here : [Live link](https://ph-hire-rock-bands.netlify.app/)
 
 ## Features
 
