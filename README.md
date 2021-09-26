@@ -2,6 +2,10 @@
 
 Live website link here : [Live link](https://ph-hire-rock-bands.netlify.app/)
 
+## Website Screenshot
+
+![Website Screenshot](desktopView.png)
+
 ## Features
 
 #### Users can find the best Rock Bands here.
