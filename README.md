@@ -16,4 +16,8 @@ Live website link here : [Live link](https://github.com/facebook/create-react-ap
 
 #### By creating profile users can get promotional updates and discounts.
 
-## More Updates Coming soon...
+## Developer Info
+
+Check Profile here [FaceBook](https://www.facebook.com/anamnafiz)
+
+### More Updates Coming soon...
