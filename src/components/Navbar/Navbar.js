@@ -1,6 +1,8 @@
 import React from "react";
 import "./Navbar.css";
 
+// navbar component
+
 const Navbar = () => {
     return (
         <div>

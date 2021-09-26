@@ -1,3 +1,5 @@
+/* footer style  */
+
 .footer {
     background-color: black;
     height: 60px;
@@ -6,12 +8,12 @@
     justify-content: center;
 }
 
-.footer p{
+.footer p {
     margin: 0;
     color: white;
 }
 
-.footer p a{
+.footer p a {
     color: white;
     font-weight: 600;
     text-decoration: none;

@@ -1,7 +1,10 @@
 import React from "react";
 import "./Band.css";
 
+// single band view card component 
+
 const Band = (props) => {
+    // destructuring the data 
     const { title, img, leader, members, cost, type } = props.Band;
     return (
         <div className="card">

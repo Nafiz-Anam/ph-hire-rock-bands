@@ -1,6 +1,8 @@
 import React from "react";
 import "./CartItems.css";
 
+// all the single cart item component 
+
 const CartItems = (props) => {
     return (
         <div>

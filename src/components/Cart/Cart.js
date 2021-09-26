@@ -2,6 +2,8 @@ import React from "react";
 import CartItems from "../CartItems/CartItems";
 import "./Cart.css";
 
+// side cart/choice details component
+
 const Cart = (props) => {
     const { cart } = props;
     let total = 0;
@@ -24,6 +26,7 @@ const Cart = (props) => {
                     <b>Selected Bands</b>
                 </h3>
                 <hr className="mb-4" />
+                {/* calling the selected component to view selected bands */}
                 {cart.map((band) => (
                     <CartItems
                         Title={band.title}
