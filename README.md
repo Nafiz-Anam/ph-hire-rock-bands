@@ -1,6 +1,6 @@
 # Hire Rock Bands
 
-Live website link [Live link](https://github.com/facebook/create-react-app)
+Live website link here : [Live link](https://github.com/facebook/create-react-app)
 
 ## Features
 
@@ -15,3 +15,5 @@ Live website link [Live link](https://github.com/facebook/create-react-app)
 #### Users can login to create there profiles to save there choice.
 
 #### By creating profile users can get promotional updates and discounts.
+
+## More Updates Coming soon...
